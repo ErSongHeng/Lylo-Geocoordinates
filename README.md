@@ -14,7 +14,7 @@ This file is meant for Lylo's internal use
 
 4. Replace and specify your input/output file names accordingly.
 5. Run the entire code up to and including the `Cleaning` section.
-6. Download the output file from Google Drive and fill in manually for rows that do not have a postal code.
+6. Download the output file from Google Drive and fill in manually for rows that do not have a postal code/remove blank rows. Also, delete the first column after that.
 7. Once completed, upload the output file back into Google Drive.
 8. Run the remaining code under `Geocoordinates` and after it has finished running, download the final output file.
 
